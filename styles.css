@@ -189,9 +189,7 @@ ul {
     position: relative;
     left: -12px;
 }
-.footer{
-    display:flex;
-    justify-content: space-between;
+footer{
     background-color: #F8F8F8;
     padding-top: 80px;
     padding-bottom:25px;
@@ -199,6 +197,15 @@ ul {
     padding-right:160px;
     /* border-top:solid; */
     text-align: center;
+}
+.footer {
+    
+    display:flex;
+    justify-content: space-between;
+        border-top:solid;
+        padding-top: 27px;
+    border-width: 1px;
+    border-color: #E1E1E1;
 }
 .dotty_picture  {
     position:absolute;
