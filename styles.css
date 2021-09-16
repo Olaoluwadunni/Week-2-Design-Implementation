@@ -397,6 +397,10 @@ footer p{
         background-color: #F8F8F8;
         padding-left: 0px;
         padding-bottom: 50px;
+        height: 100vh;
+    }
+    .icons2{
+        display: block;
     }
     .nav_link    {
         margin-right: 0 !important;
